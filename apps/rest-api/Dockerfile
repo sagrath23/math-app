@@ -1,5 +1,5 @@
 
-## TODO: improve image generation
+## TODO: improve image
 FROM clojure
 COPY . /usr/src/app
 WORKDIR /usr/src/app
